@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ServicioGestor_Juegos",
+    "\\ServicioGestor_Juegos\\ClienteSudoku",
+    "\\ServicioGestor_Juegos\\ServicioGestor_Juegos",
+    "\\ServicioGestor_Juegos\\ServidorSudoku"
+  ],
+  "SelectedNode": "\\ServicioGestor_Juegos\\ClienteSudoku\\ClienteSudoku.cs",
+  "PreviewInSolutionExplorer": false
+}

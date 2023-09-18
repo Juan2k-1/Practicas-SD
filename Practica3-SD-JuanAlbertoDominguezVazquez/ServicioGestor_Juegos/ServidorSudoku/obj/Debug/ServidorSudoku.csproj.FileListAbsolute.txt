@@ -1,0 +1,20 @@
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Pratica3-SD\ServicioGestor_Juegos\ServidorSudoku\bin\Debug\ServidorSudoku.exe.config
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Pratica3-SD\ServicioGestor_Juegos\ServidorSudoku\bin\Debug\ServidorSudoku.exe
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Pratica3-SD\ServicioGestor_Juegos\ServidorSudoku\bin\Debug\ServidorSudoku.pdb
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Pratica3-SD\ServicioGestor_Juegos\ServidorSudoku\bin\Debug\ServicioGestor_Juegos.dll
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Pratica3-SD\ServicioGestor_Juegos\ServidorSudoku\bin\Debug\ServicioGestor_Juegos.pdb
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Pratica3-SD\ServicioGestor_Juegos\ServidorSudoku\obj\Debug\ServidorSudoku.csproj.AssemblyReference.cache
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Pratica3-SD\ServicioGestor_Juegos\ServidorSudoku\obj\Debug\ServidorSudoku.csproj.CoreCompileInputs.cache
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Pratica3-SD\ServicioGestor_Juegos\ServidorSudoku\obj\Debug\ServidorSudoku.csproj.CopyComplete
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Pratica3-SD\ServicioGestor_Juegos\ServidorSudoku\obj\Debug\ServidorSudoku.exe
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Pratica3-SD\ServicioGestor_Juegos\ServidorSudoku\obj\Debug\ServidorSudoku.pdb
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Pratica3-SD-JuanAlberto Dominguez Vazquez\ServicioGestor_Juegos\ServidorSudoku\bin\Debug\ServidorSudoku.exe.config
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Pratica3-SD-JuanAlberto Dominguez Vazquez\ServicioGestor_Juegos\ServidorSudoku\bin\Debug\ServidorSudoku.exe
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Pratica3-SD-JuanAlberto Dominguez Vazquez\ServicioGestor_Juegos\ServidorSudoku\bin\Debug\ServidorSudoku.pdb
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Pratica3-SD-JuanAlberto Dominguez Vazquez\ServicioGestor_Juegos\ServidorSudoku\bin\Debug\ServicioGestor_Juegos.dll
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Pratica3-SD-JuanAlberto Dominguez Vazquez\ServicioGestor_Juegos\ServidorSudoku\bin\Debug\ServicioGestor_Juegos.pdb
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Pratica3-SD-JuanAlberto Dominguez Vazquez\ServicioGestor_Juegos\ServidorSudoku\obj\Debug\ServidorSudoku.csproj.AssemblyReference.cache
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Pratica3-SD-JuanAlberto Dominguez Vazquez\ServicioGestor_Juegos\ServidorSudoku\obj\Debug\ServidorSudoku.csproj.CoreCompileInputs.cache
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Pratica3-SD-JuanAlberto Dominguez Vazquez\ServicioGestor_Juegos\ServidorSudoku\obj\Debug\ServidorSudoku.csproj.CopyComplete
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Pratica3-SD-JuanAlberto Dominguez Vazquez\ServicioGestor_Juegos\ServidorSudoku\obj\Debug\ServidorSudoku.exe
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Pratica3-SD-JuanAlberto Dominguez Vazquez\ServicioGestor_Juegos\ServidorSudoku\obj\Debug\ServidorSudoku.pdb

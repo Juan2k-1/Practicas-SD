@@ -1,0 +1,12 @@
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Pratica3-SD\ServicioGestor_Juegos\ServicioGestor_Juegos\bin\Debug\ServicioGestor_Juegos.dll
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Pratica3-SD\ServicioGestor_Juegos\ServicioGestor_Juegos\bin\Debug\ServicioGestor_Juegos.pdb
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Pratica3-SD\ServicioGestor_Juegos\ServicioGestor_Juegos\obj\Debug\ServicioGestor_Juegos.csproj.CoreCompileInputs.cache
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Pratica3-SD\ServicioGestor_Juegos\ServicioGestor_Juegos\obj\Debug\ServicioGestor_Juegos.dll
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Pratica3-SD\ServicioGestor_Juegos\ServicioGestor_Juegos\obj\Debug\ServicioGestor_Juegos.pdb
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Pratica3-SD\ServicioGestor_Juegos\ServicioGestor_Juegos\obj\Debug\ServicioGestor_Juegos.csproj.AssemblyReference.cache
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Pratica3-SD-JuanAlberto Dominguez Vazquez\ServicioGestor_Juegos\ServicioGestor_Juegos\bin\Debug\ServicioGestor_Juegos.dll
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Pratica3-SD-JuanAlberto Dominguez Vazquez\ServicioGestor_Juegos\ServicioGestor_Juegos\bin\Debug\ServicioGestor_Juegos.pdb
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Pratica3-SD-JuanAlberto Dominguez Vazquez\ServicioGestor_Juegos\ServicioGestor_Juegos\obj\Debug\ServicioGestor_Juegos.csproj.AssemblyReference.cache
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Pratica3-SD-JuanAlberto Dominguez Vazquez\ServicioGestor_Juegos\ServicioGestor_Juegos\obj\Debug\ServicioGestor_Juegos.csproj.CoreCompileInputs.cache
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Pratica3-SD-JuanAlberto Dominguez Vazquez\ServicioGestor_Juegos\ServicioGestor_Juegos\obj\Debug\ServicioGestor_Juegos.dll
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Pratica3-SD-JuanAlberto Dominguez Vazquez\ServicioGestor_Juegos\ServicioGestor_Juegos\obj\Debug\ServicioGestor_Juegos.pdb

@@ -1,0 +1,7 @@
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Practica4\ClienteJuegos\ClienteJuegos\obj\Debug\ClienteJuegos.csproj.AssemblyReference.cache
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Practica4\ClienteJuegos\ClienteJuegos\obj\Debug\ClienteJuegos.csproj.CoreCompileInputs.cache
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Practica4\ClienteJuegos\ClienteJuegos\bin\Debug\ClienteJuegos.exe.config
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Practica4\ClienteJuegos\ClienteJuegos\bin\Debug\ClienteJuegos.exe
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Practica4\ClienteJuegos\ClienteJuegos\bin\Debug\ClienteJuegos.pdb
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Practica4\ClienteJuegos\ClienteJuegos\obj\Debug\ClienteJuegos.exe
+C:\Users\juald\OneDrive\Documentos\Juan Alberto\3º Curso\Segundo Cuatrimestre\SD\Prácticas\Practica4\ClienteJuegos\ClienteJuegos\obj\Debug\ClienteJuegos.pdb
